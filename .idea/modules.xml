@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/nc_py/.idea/nc_py.iml" filepath="$USER_HOME$/Desktop/nc_py/.idea/nc_py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py_test/.idea/py_test.iml" filepath="$PROJECT_DIR$/../py_test/.idea/py_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rds_slowsql.iml" filepath="$PROJECT_DIR$/.idea/rds_slowsql.iml" />
+    </modules>
+  </component>
+</project>
